@@ -1,0 +1,9 @@
+configuration {
+  //modi: [drun];
+  show-icons: true;
+  disable-history: true;
+  sidebar-mode: false;
+}
+//@theme "/home/lpy/.local/share/rofi/themes/windows11-grid-dark.rasi"
+//@theme "/home/lpy/.local/share/rofi/themes/rounded-blue-dark.rasi"
+@theme "/home/lpy/.local/share/rofi/themes/windows11-grid-dark.rasi"
